@@ -14,6 +14,7 @@ export default () => {
         <p>This isn’t bold.</p>
         <p><strong>This is bold.</strong></p>
         <p><b>And this.</b></p>
+        <span class="comment" data-comment-id="1231123123" data-comment-text="Needs clarification"> commented text </span>
         <p style="font-weight: bold">This as well.</p>
         <p style="font-weight: bolder">Oh, and this!</p>
         <p style="font-weight: 500">Cool, isn’t it!?</p>
